@@ -94,7 +94,7 @@
     "pug": "^3.0.3",
     "puppeteer": "~22.12.1",
     "rimraf": "^5.0.8",
-    "rolldown": "^0.10.5",
+    "rolldown": "nightly",
     "rollup": "^4.18.0",
     "rollup-plugin-dts": "^6.1.1",
     "rollup-plugin-esbuild": "^6.1.1",
